@@ -9,4 +9,4 @@ compressing the image using encoder and reconstructing the image using decoder o
 1. Numpy
 2. Torch
 3. Torchvision
-
+4. Matplotlib
