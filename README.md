@@ -5,3 +5,8 @@ compressing the image using encoder and reconstructing the image using decoder o
 1. autoencoder_on_mnist.py
 2. autoencoder_on_mnist.ipynb
 
+## Dependencies
+1. Numpy
+2. Torch
+3. Torchvision
+
