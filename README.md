@@ -1,5 +1,5 @@
-# auto-encoding-on-mnist
-compressing the image using encoder and reconstructing the image using decoder on MNIST Numerical Dataset
+# Auto-Encoding-On-mnist
+Compressing the image using encoder and reconstructing the image using decoder on MNIST Numerical Dataset
 
 ## Files
 
